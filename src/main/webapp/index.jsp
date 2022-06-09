@@ -6,3 +6,11 @@
 
 </body>
 </html>
+
+<html>
+<body>
+
+ <h2> Maven Practice</h2>
+    
+</body>    
+</html>
